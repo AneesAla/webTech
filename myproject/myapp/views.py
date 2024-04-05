@@ -6,4 +6,4 @@ def home(request):
 
 
 def testpage(request):
-  return render(request, 'myapp/testpage.html')
+  return render(request, 'testpage.html')
